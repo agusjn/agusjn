@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**agusjn/agusjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I’m Mai Gia Huy, a 2026 graduate from Ho Chi Minh City University of Technology (HCMUT), majoring in Electrical and Electronics Engineering.
 
-Here are some ideas to get you started:
+I’m highly enthusiastic about the IC design field, with a strong interest in Design Verification. I enjoy working close to hardware and building reliable, well-tested digital systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills & Tools:
+
+Programming: C/C++ (including OOP)
+
+HDL: Verilog, SystemVerilog (basic understanding of UVM)
+
+Scripting: Python, Tcl, Bash
+
+I’m continuously learning and improving my skills through academic projects and hands-on practice in digital design and verification.
