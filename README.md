@@ -6,7 +6,7 @@ I’m highly enthusiastic about the IC design field, with a strong interest in D
 
 Skills & Tools:
 
-Programming: C/C++ (including OOP)
+Programming: assembly, C/C++ (including OOP)
 
 HDL: Verilog, SystemVerilog (basic understanding of UVM)
 
